@@ -41,3 +41,11 @@ console.log(typeof anotherId); // symbol
 
 
 
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Memory type
+
+// Stack(primitive) Heap(Non primitive)
+
+
+
