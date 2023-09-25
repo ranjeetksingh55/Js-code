@@ -32,12 +32,12 @@ const myFunction = function() {
     console.log("Hello World");
 }
 
-console.log(typeof bigNumber); //bigint
-console.log(typeof outsideTemp); //object
-console.log(typeof isLoggedIn); // boolean
-console.log(typeof myFunction); // function
-console.log(typeof heroes); // object
-console.log(typeof anotherId); // symbol
+// console.log(typeof bigNumber); //bigint
+// console.log(typeof outsideTemp); //object
+// console.log(typeof isLoggedIn); // boolean
+// console.log(typeof myFunction); // function
+// console.log(typeof heroes); // object
+// console.log(typeof anotherId); // symbol
 
 
 
@@ -46,6 +46,24 @@ console.log(typeof anotherId); // symbol
 // Memory type
 
 // Stack(primitive) Heap(Non primitive)
+
+let myYoutubename = "Ranjeet"
+let anothername =  "myYoutubename"
+anothername = "chaiaurcode"
+console.log(myYoutubename);
+console.log(anothername);
+
+let userOne = {
+    email : "rks@gmail.com",
+    upid : "user@ybl"
+
+}
+
+let userTwo = userOne
+userTwo.email = "ranjeet@google.com"
+console.log(userOne.email);
+console.log(userTwo.email);
+
 
 
 
