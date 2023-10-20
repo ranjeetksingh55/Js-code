@@ -35,7 +35,7 @@ const  chai  =  () => {
 
 const addTwo = (num1, num2) =>   ({username : "ranjeet"})
 
-// note 1. if we write cruly braises then return is neccssary.
+// note 1. if we write curly braces then return is neccssary.
 // 2. if we write parenthesis then return is not neccessary.
 
   
