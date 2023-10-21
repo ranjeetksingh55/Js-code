@@ -14,9 +14,3 @@
 })('ranjeet')
 
 // write two iife (interview question)
-
-
-
-
-
-
